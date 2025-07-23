@@ -39,4 +39,4 @@ if ($uri !== '/' && file_exists(__DIR__.'/public'.$uri)) {
     return false;
 }
 
-require_once __DIR__.'/public/index.php';
+require_once __DIR__.'https://firefly-88987435621.europe-west1.run.app';
